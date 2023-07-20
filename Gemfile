@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+#Static
 gem 'rails', '4.0.0.beta1'
 
 group :development, :test do
